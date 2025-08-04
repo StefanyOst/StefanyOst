@@ -1,45 +1,25 @@
-<h1 align="center">Hey, eu sou a Tefy 👋</h1>
-<p align="center">Seja bem-vindo(a) ao meu cantinho no GitHub!</p>
+<h1 align="center">✨ Oi, eu sou a Tefy! 🐾</h1>
+<p align="center">💻 Codando com carinho & vivendo no modo escuro 🌙</p>
 
 ---
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/your-discord-id?theme=dark&borderRadius=10px" alt="Discord Presence">
-</p>
-
-## 🧠 Skills & Ferramentas
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
-![Scratch](https://img.shields.io/badge/-Scratch-FFA500?style=flat&logo=scratch&logoColor=fff)
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide=prs&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" width="48%"/>
-</div>
-
----
-
-## 🌸 Onde me encontrar:
+## 🌸 Tecnologias que uso
 
 <p align="center">
-  <a href="https://instagram.com/seuuser"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/seuuser"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/seuuser"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ---
 
+## 📊 Meus gráficos fofinhos
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-gif-path.gif" width="150px" alt="cute cat gif"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_title=true&icon_color=ffb6c1&text_color=ffffff&bg_color=0d1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=ffffff&hide_title=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet" alt="Profile Views"/>
-</p>
-
-<p align="center"><i>"Vivendo, aprendendo e codando com amor fati."</i></p>
+  <img src="https://streak-stats.demolab.com/?user=seu-usuario&theme=tokyonight&hide_border=true&background=0d1117&ring=ff9dd9&fire=ff9dd9
