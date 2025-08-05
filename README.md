@@ -11,9 +11,11 @@ Turning curiosity into code and learning into results.<p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://avatars.githubusercontent.com/u/81740192?s=200&v=4" width="40" alt="n8n" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/docs/assets/n8n-icon.png" width="40" alt="n8n" />
 </p>
+
 
