@@ -33,7 +33,7 @@ Turning curiosity into code and learning into results.<p>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="https://www.instagram.com/seuinsta" target="_blank">
+  <a href="[https://www.instagram.com/seuinsta" target](https://www.instagram.com/___tefy____/)="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
