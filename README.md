@@ -18,7 +18,7 @@ Turning curiosity into code and learning into results.<p>
           
 </p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/XXXXXXXXXXXXXX" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lh6mc2xorikyeirhmqim7ybxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=lh6mc2xorikyeirhmqim7ybxq&redirect=true)
 
 
 
