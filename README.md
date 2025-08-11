@@ -18,19 +18,7 @@ Turning curiosity into code and learning into results.<p>
           
 </p>
 
-<table>
-  <tr>
-    <td>
-      <!-- Spotify -->
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=lh6mc2xorikyeirhmqim7ybxq&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lh6mc2xorikyeirhmqim7ybxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify" />
-      </a>
-    </td>
-    <td>
-      <!-- GIF -->
-      <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" alt="GIF animado" />
-    </td>
-  </tr>
-</table>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/XXXXXXXXXXXXXX" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
