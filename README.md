@@ -20,5 +20,10 @@ Turning curiosity into code and learning into results.<p>
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lh6mc2xorikyeirhmqim7ybxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=lh6mc2xorikyeirhmqim7ybxq&redirect=true)
 
+<div style="display: flex; align-items: center;">
+  <img src="![45RT](https://github.com/user-attachments/assets/930618db-7761-4b40-b239-0f2f278fabea)
+" alt="Gif" width="150">
+  <iframe src="https://open.spotify.com/embed/track/SEU_ID_DE_MUSICA" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
 
 
